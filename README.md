@@ -15,10 +15,10 @@ This project was developed using C# and Windows Forms, and requires the .NET Fra
 
 ## Releases
 [Here](https://github.com/s-mohamed-dev/portfolio-csharp-daily-task-planner/releases/tag/v1.0) you can find the compiled versions of the Daily Task Planner application, ready for use. Simply download the desired version and run the executable file to start using the application.
-[Insert links to compiled version here, if available]
 
 ## Demo
 Here is a screenshot of the Daily Task Planner application interface to see how you can use it to add, modify, delete, and save tasks. The application offers a user-friendly experience and allows you to save tasks for each day and view task history.
+
 ![Demo](Demo/demo.png)
 
 ## Conclusion
